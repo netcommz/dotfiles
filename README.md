@@ -1,2 +1,2 @@
 # dotfiles
-Dotfile repository for my Linux Mint builds.
+Dotfile repository for my Linux Ubuntu builds.
